@@ -1,0 +1,12 @@
+FNM control de versiones de nodejs
+curl -fsSL https://fnm.vercel.app/install | bash
+
+RUSH
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+INSTALAR NODE
+fnm install 18.16.0
+
+VERSION POR DEFAULT
+fnm alias 18.16.0 default
+

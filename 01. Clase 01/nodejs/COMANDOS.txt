@@ -1,0 +1,5 @@
+INSTALAR DEPENDENCIAS DE DESARROLLO
+
+npm install standard -D
+
+npm install standard --development

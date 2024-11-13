@@ -1,0 +1,31 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El mejor curso de node XD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxiSoriano70/APRENDIENDO-NODE.git"
+  },
+  "keywords": [
+    "NODE"
+  ],
+  "author": "Maximiliano Soriano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxiSoriano70/APRENDIENDO-NODE/issues"
+  },
+  "homepage": "https://github.com/MaxiSoriano70/APRENDIENDO-NODE#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
+}
