@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev:1": "nodemon \"02. Clase 02/01.http.js\"",
+    "dev:2": "nodemon \"02. Clase 02/02.routing.js\""
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

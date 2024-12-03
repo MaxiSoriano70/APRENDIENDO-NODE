@@ -1,0 +1,13 @@
+100 - 199: Respuestas informativas
+200 - 299: Respuestas satisfactorias
+200 OK
+300 - 399: Redirecciones
+301 MOVED PERMANENTLY => El recurso que se encontraba ahi se a redirigido
+400 - 499: Errores del cliente
+400 BAD REQUEST => La informacion que estas enviando esta mal formada
+404 NOT FOUNT => No encontrado
+500 - 599: Errores del servidor
+500 INTERNAL SERVER ERROR => Error del servidor
+
+COMANDOS
+npm install nodemon -D
